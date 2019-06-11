@@ -127,5 +127,7 @@ namespace BaltaStore.Tests.ValueObjects
                 Assert.AreEqual(EDeliveryStatus.Canceled, x.Status);
             }
         }
+
+
     }
 }
