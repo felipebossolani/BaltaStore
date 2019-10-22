@@ -4,4 +4,4 @@
 - Recomendo a todos que façam esse curso, vale muito a pena.
 
 ### Link do curso
-https://balta.io/cursos/1974[https://balta.io/cursos/1974](https://balta.io/cursos/1974 "https://balta.io/cursos/1974")
+[Cursos](https://balta.io/cursos/1974)
